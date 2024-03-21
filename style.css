@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(213, 229, 229);
+}
+.menu{
+    color:red;
+    a{
+        color: red;
+    }
+}
